@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@niccsj/elastic-logger": "^3.6.6"
+  },
+  "devDependencies": {
+    "eslint": "^8.34.0"
+  }
+}
